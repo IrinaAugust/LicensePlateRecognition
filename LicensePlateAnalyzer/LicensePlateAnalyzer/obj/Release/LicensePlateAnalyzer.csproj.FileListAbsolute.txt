@@ -1,0 +1,8 @@
+D:\Git\LicensePlateRecognition\LicensePlateAnalyzer\LicensePlateAnalyzer\bin\Release\LicensePlateAnalyzer.exe.config
+D:\Git\LicensePlateRecognition\LicensePlateAnalyzer\LicensePlateAnalyzer\bin\Release\LicensePlateAnalyzer.exe
+D:\Git\LicensePlateRecognition\LicensePlateAnalyzer\LicensePlateAnalyzer\bin\Release\LicensePlateAnalyzer.pdb
+D:\Git\LicensePlateRecognition\LicensePlateAnalyzer\LicensePlateAnalyzer\obj\Release\LicensePlateAnalyzer.Form1.resources
+D:\Git\LicensePlateRecognition\LicensePlateAnalyzer\LicensePlateAnalyzer\obj\Release\LicensePlateAnalyzer.Properties.Resources.resources
+D:\Git\LicensePlateRecognition\LicensePlateAnalyzer\LicensePlateAnalyzer\obj\Release\LicensePlateAnalyzer.csproj.GenerateResource.Cache
+D:\Git\LicensePlateRecognition\LicensePlateAnalyzer\LicensePlateAnalyzer\obj\Release\LicensePlateAnalyzer.exe
+D:\Git\LicensePlateRecognition\LicensePlateAnalyzer\LicensePlateAnalyzer\obj\Release\LicensePlateAnalyzer.pdb
